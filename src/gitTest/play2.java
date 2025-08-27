@@ -1,5 +1,6 @@
 package gitTest;
 
-public class play2 {
-
+public class play2 
+{
+   
 }
